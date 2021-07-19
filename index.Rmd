@@ -1,6 +1,6 @@
 --- 
 title: "A Minimal Report Example"
-author: "Jeho Park"
+author: "김모모, 이모모, 박모모"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
