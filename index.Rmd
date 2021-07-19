@@ -16,6 +16,8 @@ description: "This is a minimal example of using the bookdown package to write a
 
 This book is a final report of a capstone project by [Team Name].
 
+__Team Members__: [Team Member Name]
+
 __Course Name__: Foundations of Data Science with Capstone at SMU, Summer 2021
 
 __Course Description__: Data science is the interdisciplinary study of the tools and theory behind using data to extract knowledge. It combines ideas from statistics, computer science, and particular domains in the physical and social sciences in order to make predictions and optimal decisions.
