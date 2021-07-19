@@ -8,7 +8,7 @@ This is a template for FoDS Capstone Project Report. Follow the instructions bel
 4. Click on `Code` button and copy the URL under Clone
 5. Go back to your RStudio
 
-[RStudio]. 
+[RStudio]   
 5. Now from your RStudio, click `New Project`  
 6. Choose the last option `Version Control`  
 7. Choose the first option `Git`  
@@ -20,7 +20,7 @@ This is a template for FoDS Capstone Project Report. Follow the instructions bel
 13. Type in the following commit message, "Initial change to index.Rmd" and click Commit button.  
 14. From the Git Commit window, click on Push (with an uparrow icon) (This will upload all the files that are changed.)  
   
-[GitHub]  
+[GitHub]   
 15. From your GitHub repo page, click on Settings  
 16. Click on Pages menu on the left pane (second from the bottom)  
 17. From the Branch menu (saying None), choose master branch and then choose /docs for the select folder menu  
