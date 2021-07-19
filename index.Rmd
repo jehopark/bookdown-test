@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "A Minimal Report Example"
+author: "Jeho Park"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -12,25 +12,10 @@ github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-# Prerequisites
+# 수업 소개
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+Data science is the interdisciplinary study of the tools and theory behind using data to extract knowledge. It combines ideas from statistics, computer science, and particular domains in the physical and social sciences in order to make predictions and optimal decisions.
 
-The **bookdown** package can be installed from CRAN or Github:
+This SMU summer intensive course is designed with a practical approach. The students will be guided to learn the basics and move on to more advanced topics in 2 weeks. The final 1 week will be dedicated to practicing and presenting data science skills and competency through capstone projects. 
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+The Data Science Capstone is a team-based, project-based session, providing an opportunity to apply data science skills and knowledge obtained from the first 2 weeks of the foundation session. Teams of two or three students, under the direction of the course instructor and teaching assistants, will be working on a data project. The primary objective is to educate the students in solving real world data science problems in professional settings by leveraging their own computational, statistical, and domain skills. The capstone will end with a final presentation.
