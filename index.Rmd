@@ -14,7 +14,7 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # 수업 소개
 
-This book is a final report^[Book Link: https://jehopark.github.io/bookdown-test/] of a capstone project by [Team Name].
+This book is a final report of a capstone project by [Team Name].
 
 __Team Members__: [Team Member Name]
 
