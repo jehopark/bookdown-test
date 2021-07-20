@@ -11,7 +11,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
-# 수업 소개 {-}
+# 수업과 팀원 소개 {-}
 
 
 __*This book is a final report of a capstone project by [Team Name].*__

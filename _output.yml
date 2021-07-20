@@ -3,9 +3,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">A Minimal Report Example</a></li>
+        <li><a href="./">A Minimal Capstone Report Example</a></li>
       after: |
-        <li>Foundations of Data Science at SMU Capastone Project Report
+        <center><li>Foundations of Data Science at SMU Capastone Project Report</li></center>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
