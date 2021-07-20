@@ -1,5 +1,5 @@
 --- 
-title: "A Minimal Report Example"
+title: "A Minimal Capstone Report Example"
 author: "김모모, 이모모, 박모모"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
