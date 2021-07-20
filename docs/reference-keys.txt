@@ -1,6 +1,5 @@
 fig:nice-fig
 tab:nice-tab
-수업-소개
 intro
 데이터
 데이터-1
