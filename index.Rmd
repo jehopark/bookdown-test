@@ -1,6 +1,6 @@
 --- 
 title: "A Minimal Capstone Report Example"
-author: "김모모, 이모모, 박모모"
+author: "김아무개, 이아무개, 박아무개"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
